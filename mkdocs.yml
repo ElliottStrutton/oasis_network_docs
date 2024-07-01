@@ -1,7 +1,7 @@
-site_name: Oasis Network
+site_name: The Oasis Network
 
 nav:
-  - Home: index.md
+  - Welcome: index.md
 
 theme:
   name: material
