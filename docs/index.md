@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+The Oasis Network is a collection of privately hosted game servers that is open to the public.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This Webpage has been setup to help users of The Oasis Network connect to the currently active servers along with any other useful information that may be important.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+For anything not listed here feel free to join our [Discord](https://discord.com/invite/9HGQexEvRP) server.
