@@ -1,4 +1,7 @@
-site_name: My Docs
+site_name: Oasis Network
+
+nav:
+  - Home: index.md
 
 theme:
   name: material
