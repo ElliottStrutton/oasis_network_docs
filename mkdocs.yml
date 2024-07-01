@@ -2,6 +2,8 @@ site_name: The Oasis Network
 
 nav:
   - Welcome: index.md
+  - Minecraft: 
+    - Main: minecraft.md
 
 theme:
   name: material
