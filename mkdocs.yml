@@ -3,7 +3,13 @@ site_name: The Oasis Network
 nav:
   - Welcome: index.md
   - Minecraft: 
-    - Main: minecraft.md
+    - Hub: minecraft_hub.md
+    - Vannila:
+      - Survival: minecraft_vanilla.md
+      - Parkour: minecraft_parkour.md
+    - Modded:
+      - All The Mods 9 - TTS: minecraft_atm9.md
+    
 
 theme:
   name: material

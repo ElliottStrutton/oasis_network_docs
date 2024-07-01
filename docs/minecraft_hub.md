@@ -1,4 +1,4 @@
-# Minecraft Servers 
+# The Hub
 
 All the Minecraft servers run behind a velocity proxy so that players can change servers very quickly. 
 
