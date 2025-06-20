@@ -1,3 +1,4 @@
+<a herf="https://kuma.ecns.co.uk/api/badge/5/uptime"> </a>
 # Setup
 
 ## Github
