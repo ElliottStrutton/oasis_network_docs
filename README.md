@@ -1,4 +1,3 @@
-<img src="https://kuma.ecns.co.uk/api/badge/5/status" />
 # Setup
 
 ## Github
